@@ -4,12 +4,12 @@ brotlipy==0.7.0
 certifi==2020.6.20
 cffi==1.14.0
 click==7.1.2
-cryptography==2.9.2
+cryptography==46.0.7
 docutils==0.15.2
-Flask==1.1.2
+Flask==3.1.3
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==3.1.6
 jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
 MarkupSafe==1.1.1
 mkl-fft==1.1.0
@@ -24,7 +24,7 @@ PySocks==1.7.1
 python-dateutil==2.8.1
 s3transfer==0.3.3
 six==1.15.0
-torch==1.5.1
+torch==2.8.0
 torchvision==0.6.0a0+35d732a
-urllib3==1.25.9
-Werkzeug==1.0.1
+urllib3==2.6.3
+Werkzeug==3.1.6
